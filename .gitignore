@@ -1,4 +1,3 @@
-cat > .gitignore <<EOF
 /build/
 .vscode/
 *.exe
@@ -8,4 +7,4 @@ CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
-EOF
+~$*
